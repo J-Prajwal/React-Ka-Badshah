@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  border: 1px solid red;
+  height: 10rem;
+  width: 50%;
+  margin: auto;
+  margin-top: 2rem;
+}
