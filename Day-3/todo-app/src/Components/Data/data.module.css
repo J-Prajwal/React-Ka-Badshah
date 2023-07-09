@@ -1,0 +1,23 @@
+.progressComplete {
+  color: rgb(101, 208, 101);
+}
+
+.progressIncomplete {
+  color: rgb(224, 105, 105);
+}
+
+.container {
+  border: 1px solid grey;
+  margin: 0.75rem 0.5rem;
+}
+
+.todoContainer {
+  display: flex;
+  height: 3rem;
+  gap: 5px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
